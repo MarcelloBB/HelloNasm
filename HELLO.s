@@ -1,4 +1,5 @@
-
+; PROGRAM: HELLO WORLD
+; AUTHOR : MARCELLO B.
 
 .section .rodata
 
